@@ -2,6 +2,7 @@
 
 VibeBlog is a professional, high-performance blog platform featuring a sleek **Modern Minimalist** aesthetic with a cinematic **Dark Mode** and generative WebGL backgrounds. It allows users to create, edit, search, and manage blog posts with real-time UI updates.
 
+![Banner](https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=80)
 
 ## ✨ Key Features
 
